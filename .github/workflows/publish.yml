@@ -1,4 +1,4 @@
-name: Publish to GitHub Pages 111
+name: Publish to GitHub Pages
 on:
   push:
     branches: [master]
